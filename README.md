@@ -1,6 +1,6 @@
 # CherryTable-Android-App
 
-Cheery Table aims to bring transparency into donation and charity. We do so by letting users track their donation history and require organizations to update their status occasionally. The users can log into the Android App and make a donation. The Organization can log into the web and make requests.
+Cherry Table aims to bring transparency into donation and charity. We do so by letting users track their donation history and require organizations to update their status occasionally. The users can log into the Android App and make a donation. The Organization can log into the web and make requests.
 
 I've contributed to this group project in several aspects:
 For the Android app, I wrote the Search tab which allows user to query by name and lookup each item. 
